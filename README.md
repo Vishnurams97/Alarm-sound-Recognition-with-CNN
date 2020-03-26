@@ -20,9 +20,4 @@ This project uses two strategies namely Supervised Learning and Peak detection.
 2)The Raspberry Pi folder contains the python script that uses the pretrained cnn_model(cnn_model.h5) which is 
   	run by raspberry pi 3B+ model for predicting the Alarm sounds in real time noisy environments.
 
-The Project depends on Python libraries namely,
-	-> Keras
-	-> Librosa
-	-> PyAudio
-	-> Sklearn
-	-> numpy ,etc.
+The Project depends on Python libraries namely Keras(with tensorflow backend), Librosa, PyAudio, PyAudio, Sklearn, numpy ,etc.
