@@ -8,7 +8,7 @@ This project uses two strategies namely Supervised Learning and Peak detection.
 
 	Notebook file 
 		- defining Model structure, Training and Testing the model.
-		- Testing the model with realtime audio.
+		- Testing the model with realtime audio input.
 
 	All audio samples.
    	containing,
