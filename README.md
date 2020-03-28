@@ -4,16 +4,16 @@ The project's target is to recognize the ICU beep sounds and classify them as No
 This project uses two strategies namely Supervised Learning and Peak detection.
 
 
-1)The "Datasets" folder contains,
+1)The <code>Datasets</code> folder contains,
 
-	Notebook file 
-		- defining Model structure, Training and Testing the model.
-		- Testing the model with realtime audio input.
+	Notebook file
+	- defining Model structure, Training and Testing the model.
+	- Testing the model with realtime audio input.
 
-	All audio samples.
+	All audio samples in wav format.
    	containing,
-		- Beep and Alarm audio samples denoted by 'd' as sample name.
-		- Normal audio samples denoted by 'n' as sample name.
+	- Beep and Alarm audio samples denoted by 'd' as sample name.
+	- Normal audio samples denoted by 'n' as sample name.
 
 	Keras models saved after training as .h5 files.
 
